@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://wallpaperaccess.com/full/5651990.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-menu{
+    width: 600px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+ul{
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    padding: 20px 30px;
+    position: relative;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ul li:hover{
+    background-color: indianred;
+}
+.sub-menu{
+    position: absolute;
+    background-color: black;
+    top: 58px;
+    left: 0;
+    margin-left: 0;
+    padding-left: 0;
+    display: none;
+}
+.sub-menu li{
+    display: block;
+}
+ul li:hover .sub-menu{
+    display: block;
+}
+
+.dev{
+    color: blue;
+    font-size: 35px;
+}
+
+.malumot{
+    color: white;
+}
+
+.hobbi{
+    color: white;
+}
+
+.copy-right-1{
+    margin-top: 500px;
+    color: white;
+    text-align: center;
+}
+
+.copy-right-2{
+    margin-top: 800px;
+    color: white;
+    text-align: center;
+}
+
+.silicon{
+    color: white;
+}
