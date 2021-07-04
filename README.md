@@ -1,1 +1,1 @@
-# portfoliyo
+# shohjahon xasanov xaqida portfoliyo
